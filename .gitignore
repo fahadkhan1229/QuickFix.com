@@ -1,1 +1,21 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+Electrical-service.php
+QuickFix.com/
+Tailor-service.php
+apple-touch-icon.png
+components/
+contact.php
+css/
+debug.log
+fonts/
+footer.php
+head.php
+header.php
+images/
+index.php
+js/
+login-registration/
+our-team.php
+projects-sidebar.php
+services-grid.php
